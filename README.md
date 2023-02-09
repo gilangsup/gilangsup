@@ -17,6 +17,8 @@ and grow up either my skills or personal growth.
 2. **CSS**
 3. **Javascript**
 4. **ReactJS**
+5. **TailwindCSS**
+6. **DaisyUI**
 
 - 📫 How to reach me **gilangsprb@gmail.com**
 
