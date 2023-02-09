@@ -11,7 +11,12 @@ and grow up either my skills or personal growth.
 
 - 🤝 I’m available for freelancing.
 
-- 💬 Ask me about **Reactjs**
+- 💬 Ask me about **Frontend Tech**
+- 🌱 Skill Tech 
+1. **HTML**
+2. **CSS**
+3. **Javascript**
+4. **ReactJS**
 
 - 📫 How to reach me **gilangsprb@gmail.com**
 
